@@ -1,0 +1,34 @@
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe.config
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.pdb
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.Form1.resources
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.Properties.Resources.resources
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.csproj.GenerateResource.Cache
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.exe
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.pdb
+F:\Informatica 3\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.csprojResolveAssemblyReference.cache
+G:\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe.config
+G:\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.exe
+G:\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.pdb
+F:\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe.config
+F:\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.exe
+F:\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.pdb
+F:\Backup\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe.config
+F:\Backup\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.exe
+F:\Backup\Informatica 3\PC\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.pdb
+F:\Backup\Informatica 3\PC\Exemplos\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe.config
+F:\Backup\Informatica 3\PC\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.exe
+F:\Backup\Informatica 3\PC\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.pdb
+I:\Backup\Informatica 3\PC\Exemplos\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe.config
+I:\Backup\Informatica 3\PC\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.exe
+I:\Backup\Informatica 3\PC\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.pdb
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe.config
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.exe
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\bin\Debug\ExemploSwitchCase.pdb
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.Form1.resources
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.Properties.Resources.resources
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.csproj.GenerateResource.cache
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.exe
+C:\Users\Windows7\Downloads\Exemplos\ExemploSwitchCase\ExemploSwitchCase\obj\Debug\ExemploSwitchCase.pdb
